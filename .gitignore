@@ -1,0 +1,8 @@
+*.exe
+*.pdb
+*.dll
+*.resources
+*.cache
+MIVAT/bin
+MIVAT/obj
+packages/

@@ -1,0 +1,21 @@
+﻿<Window x:Class="MIVAT.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MIVAT"
+        mc:Ignorable="d"
+        Title="MIVAT" Height="450" Width="800">
+    <DockPanel>
+        <StackPanel DockPanel.Dock="Top">
+            <Menu>
+                <MenuItem Header="File"></MenuItem>
+                <MenuItem Header="Edit"></MenuItem>
+                <MenuItem Header="View"></MenuItem>
+                <MenuItem Header="Tools"></MenuItem>
+                <MenuItem Header="Help"></MenuItem>
+            </Menu>
+        </StackPanel>
+        <Grid Height="401" VerticalAlignment="Top" Width="784"/>
+    </DockPanel>
+</Window>
