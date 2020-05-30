@@ -9,11 +9,25 @@
     <DockPanel>
         <StackPanel DockPanel.Dock="Top">
             <Menu>
-                <MenuItem Header="File"></MenuItem>
+                <MenuItem Header="File">
+                    <MenuItem Header="New"></MenuItem>
+                    <MenuItem Header="Open Study"></MenuItem>
+                    <MenuItem Header="Save Study"></MenuItem>
+                    <MenuItem Header="Save Study As"></MenuItem>
+                    <Separator></Separator>
+                    <MenuItem Header="Close"></MenuItem>
+                </MenuItem>
                 <MenuItem Header="Edit"></MenuItem>
                 <MenuItem Header="View"></MenuItem>
-                <MenuItem Header="Tools"></MenuItem>
-                <MenuItem Header="Help"></MenuItem>
+                <MenuItem Header="Layers"></MenuItem>
+                <MenuItem Header="Tools">
+                    <MenuItem Header="Preferences"></MenuItem>
+                </MenuItem>
+                <MenuItem Header="Help">
+                    <MenuItem Header="Topics"></MenuItem>
+                    <Separator></Separator>
+                    <MenuItem Header="About"></MenuItem>
+                </MenuItem>
             </Menu>
         </StackPanel>
         <Grid Height="401" VerticalAlignment="Top" Width="784"/>

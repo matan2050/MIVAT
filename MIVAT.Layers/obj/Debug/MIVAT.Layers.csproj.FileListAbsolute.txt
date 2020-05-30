@@ -1,0 +1,10 @@
+C:\Users\User\Source\Repos\MIVAT\MIVAT.Layers\bin\Debug\MIVAT.Layers.dll
+C:\Users\User\Source\Repos\MIVAT\MIVAT.Layers\bin\Debug\MIVAT.Layers.pdb
+C:\Users\User\Source\Repos\MIVAT\MIVAT.Layers\bin\Debug\OpenTK.dll
+C:\Users\User\Source\Repos\MIVAT\MIVAT.Layers\bin\Debug\OpenTK.pdb
+C:\Users\User\Source\Repos\MIVAT\MIVAT.Layers\bin\Debug\OpenTK.xml
+C:\Users\User\Source\Repos\MIVAT\MIVAT.Layers\obj\Debug\MIVAT.Layers.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\MIVAT\MIVAT.Layers\obj\Debug\MIVAT.Layers.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\MIVAT\MIVAT.Layers\obj\Debug\MIVAT.Layers.csproj.CopyComplete
+C:\Users\User\Source\Repos\MIVAT\MIVAT.Layers\obj\Debug\MIVAT.Layers.dll
+C:\Users\User\Source\Repos\MIVAT\MIVAT.Layers\obj\Debug\MIVAT.Layers.pdb
