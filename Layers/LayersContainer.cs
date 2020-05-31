@@ -5,6 +5,8 @@ namespace MIVAT.Layers
 {
     public class LayersContainer
     {
+        // TODO switch all throw statements with fail-safe and log entries once decent logger used
+
         public Dictionary<string, Layer> Container { get; private set; }
 
         public void AddLayerToContainer(Layer _layer)
