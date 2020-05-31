@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIVAT.MainUI", "MIVAT\MIVAT.MainUI.csproj", "{D3A68606-224F-443F-AAD1-B837B068B9D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIVAT.Layers", "MIVAT.Layers\MIVAT.Layers.csproj", "{CBCE28ED-5D32-4C62-8802-95346FB77956}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layers", "Layers\Layers.csproj", "{CBCE28ED-5D32-4C62-8802-95346FB77956}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
