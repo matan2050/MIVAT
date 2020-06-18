@@ -2,6 +2,10 @@
 
 namespace MIVAT.Layers
 {
+    /// <summary>
+    /// represents a displayable layer
+    /// items may include ROI, volumes, etc
+    /// </summary>
     public abstract class Layer
     {
         public BoundingBox BBX { get; protected set; }

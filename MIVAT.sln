@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIVAT.MainUI", "MIVAT\MIVAT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layers", "Layers\Layers.csproj", "{CBCE28ED-5D32-4C62-8802-95346FB77956}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IO", "IO\IO.csproj", "{EEECA14C-D7CF-4993-B0E2-FE3928A703DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "DataTypes\DataTypes.csproj", "{4B32FE0D-B14F-40CA-B5C0-80E2FE08AA10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{CBCE28ED-5D32-4C62-8802-95346FB77956}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBCE28ED-5D32-4C62-8802-95346FB77956}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBCE28ED-5D32-4C62-8802-95346FB77956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEECA14C-D7CF-4993-B0E2-FE3928A703DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEECA14C-D7CF-4993-B0E2-FE3928A703DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEECA14C-D7CF-4993-B0E2-FE3928A703DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEECA14C-D7CF-4993-B0E2-FE3928A703DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B32FE0D-B14F-40CA-B5C0-80E2FE08AA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B32FE0D-B14F-40CA-B5C0-80E2FE08AA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B32FE0D-B14F-40CA-B5C0-80E2FE08AA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B32FE0D-B14F-40CA-B5C0-80E2FE08AA10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,6 +3,10 @@
 *.dll
 *.resources
 *.cache
+*.suo
 MIVAT/bin
 MIVAT/obj
 packages/
+.vs/
+Debug/
+obj/

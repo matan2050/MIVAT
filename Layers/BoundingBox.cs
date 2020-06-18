@@ -2,6 +2,10 @@
 
 namespace MIVAT.Layers
 {
+    /// <summary>
+    /// represents a three dimensional volume
+    /// by defining its encompasing box
+    /// </summary>
     public class BoundingBox
     {
         public Vector3 Min { get; private set; }
